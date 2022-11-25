@@ -1,0 +1,113 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+}
+
+.tblWrapper {
+    box-shadow: 10px 10px 4px -4px rgba(237,237,237,0.75);
+    -webkit-box-shadow: 10px 10px 4px -4px rgba(237,237,237,0.75);
+    -moz-box-shadow: 10px 10px 4px -4px rgba(237,237,237,0.75);
+    
+    border-radius: 15px;
+}
+
+table {
+    width: auto;
+    text-align: left;
+    border-collapse: collapse;
+    height: auto;
+    background-color: #fff;
+    
+}
+
+.heading th {
+    color: #3DCBB1;
+    padding: 10px 30px;
+}
+
+.heading th:last-child {
+    text-align: center;
+}
+
+.heading {
+    border-bottom: 1px solid #ECECEC;
+    
+}
+
+/* tr {
+    border-bottom: 1px solid #ECECEC;
+} */
+
+tbody tr:nth-child(even) {
+    background-color: #F4F4F4;
+    border-left: 1px solid #ECECEC;
+    border-right: 1px solid #ECECEC;
+}
+
+th, td {
+    padding: 15px 30px;
+    color: #7A7A7A;
+}
+
+.action {
+    margin: 0 5px;
+}
+
+tbody td button {
+    color: none;
+    background-color: transparent;
+    border: none;
+}
+
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3DCBB1;
+    color: #FFF;
+    height: 30px;
+    border-radius: 5px;
+    padding: 0 20px;
+    border: none;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pagination button {
+    margin: 0 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    border: 1px solid #c3c3c3;
+    border-radius: 5px;
+    background-color: #FFF;
+}
+
+.footer .filterBtn {
+    border: 1px solid #DEDEE6;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 6px 10px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.footer .filterBtn select {
+    background-color: #fff;
+}
+
+.footer {
+    /*t r b l*/
+    padding: 15px 0 15px 30px;
+    border-radius: 0 0 15px 15px;
+    border-top: 1px solid #ECECEC;
+}

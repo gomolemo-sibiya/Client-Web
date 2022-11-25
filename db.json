@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "name": "James bond",
+      "email": "James@gmail.com",
+      "phone": "877676777",
+      "address": "IndiaErwe",
+      "id": 4,
+      "status": "Active"
+    },
+    {
+      "name": "johnwrqr",
+      "email": "john@gmail.com",
+      "phone": "6775757",
+      "address": "India",
+      "id": 11,
+      "status": "Active"
+    },
+    {
+      "name": "Gomolemo Sibiya",
+      "email": "gomolemosibiya@gmail.com",
+      "phone": "1",
+      "address": "933 Lucas Meyer street",
+      "id": 13
+    },
+    {
+      "name": "Test4554",
+      "email": "testt1@gmail.com",
+      "phone": "87878787",
+      "address": "Jkjk",
+      "id": 3
+    },
+    {
+      "name": "James bond",
+      "email": "James@gmail.com",
+      "phone": "877676777",
+      "address": "India",
+      "id": 4
+    },
+    {
+      "name": "Baby",
+      "email": "ihjwih@kekh.com",
+      "phone": "9987987",
+      "address": "jhwhw",
+      "id": 9,
+      "status": "Active"
+    },
+    {
+      "name": "James",
+      "email": "u8ywufy8@ufehu",
+      "phone": "8324787687",
+      "address": "gwufg",
+      "id": 10
+    },
+    {
+      "name": "john",
+      "email": "john@gmail.com",
+      "phone": "6775757",
+      "address": "India",
+      "id": 11
+    },
+    {
+      "name": "Gomolemo Sibiya",
+      "email": "gomolemosibiya@gmail.com",
+      "phone": "123456789",
+      "address": "933 Lucas Meyer street",
+      "id": 12
+    },
+    {
+      "name": "Gomolemo Sibiya",
+      "email": "gomolemosibiya@gmail.com",
+      "phone": "1",
+      "address": "933 Lucas Meyer street",
+      "id": 13
+    },
+    {
+      "name": "Gomolemo Sibiya",
+      "email": "gomolemosibiya@gmail.com",
+      "phone": "1",
+      "address": "933 Lucas Meyer street",
+      "id": 13
+    },
+    {
+      "name": "Joseph Sibiya",
+      "email": "josephsibiya@gmail.com",
+      "phone": "1234567890",
+      "address": "933 Lucas Meyer street",
+      "status": "Active",
+      "id": 14
+    }
+  ]
+}

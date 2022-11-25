@@ -1,0 +1,448 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "initials": "PH",
+      "name": "Chickie McErlaine",
+      "email": "cmcerlaine0@archive.org",
+      "phone": "(128) 3114544",
+      "password": "Dzkaf1kfpuYK"
+    },
+    {
+      "id": 2,
+      "initials": "CN",
+      "name": "Nannie Batte",
+      "email": "nbatte1@amazon.co.jp",
+      "phone": "(454) 1741741",
+      "password": "cmUeI3kKex"
+    },
+    {
+      "id": 3,
+      "initials": "KR",
+      "name": "Kathie Lovell",
+      "email": "klovell2@berkeley.edu",
+      "phone": "(170) 6248911",
+      "password": "9ZJVRRxv"
+    },
+    {
+      "id": 4,
+      "initials": "ID",
+      "name": "Kory Boyde",
+      "email": "kboyde3@dedecms.com",
+      "phone": "(519) 2621618",
+      "password": "uCbRrA5bs"
+    },
+    {
+      "id": 5,
+      "initials": "CN",
+      "name": "Far Leyborne",
+      "email": "fleyborne4@slate.com",
+      "phone": "(344) 2539267",
+      "password": "9IkHt8"
+    },
+    {
+      "id": 6,
+      "initials": "DE",
+      "name": "Garth Nottingam",
+      "email": "gnottingam5@delicious.com",
+      "phone": "(407) 5635398",
+      "password": "hMGTN3Qc"
+    },
+    {
+      "id": 7,
+      "initials": "PT",
+      "name": "Korella Shoreman",
+      "email": "kshoreman6@forbes.com",
+      "phone": "(244) 7678715",
+      "password": "uw3Ivirvr"
+    },
+    {
+      "id": 8,
+      "initials": "UA",
+      "name": "Cointon Estcot",
+      "email": "cestcot7@elegantthemes.com",
+      "phone": "(744) 8920408",
+      "password": "tWcWX7tl3"
+    },
+    {
+      "id": 10,
+      "initials": "CI",
+      "name": "Stephannie Mc Meekin",
+      "email": "smc9@unesco.org",
+      "phone": "(883) 3145871",
+      "password": "U2Pk2AZCXRo"
+    },
+    {
+      "id": 11,
+      "initials": "JP",
+      "name": "Lorne Lambrecht",
+      "email": "llambrechta@storify.com",
+      "phone": "(386) 4145728",
+      "password": "toURg2FzEG0P"
+    },
+    {
+      "id": 12,
+      "initials": "CN",
+      "name": "Ingeborg Stolle",
+      "email": "istolleb@ftc.gov",
+      "phone": "(219) 1392467",
+      "password": "qNPf2508lTb9"
+    },
+    {
+      "id": 13,
+      "initials": "CN",
+      "name": "Kaitlynn Connechy",
+      "email": "kconnechyc@google.co.jp",
+      "phone": "(128) 3549474",
+      "password": "XYakaikV"
+    },
+    {
+      "id": 14,
+      "initials": "RU",
+      "name": "Eliza Lyttle",
+      "email": "elyttled@bravesites.com",
+      "phone": "(296) 5571217",
+      "password": "642uD0r"
+    },
+    {
+      "id": 15,
+      "initials": "CL",
+      "name": "Cassaundra Peacock",
+      "email": "cpeacocke@irs.gov",
+      "phone": "(830) 5057755",
+      "password": "DsQOFsW6c5"
+    },
+    {
+      "id": 16,
+      "initials": "ID",
+      "name": "Priscilla Tunnoch",
+      "email": "ptunnochf@webeden.co.uk",
+      "phone": "(852) 5967614",
+      "password": "N2qHBW"
+    },
+    {
+      "id": 17,
+      "initials": "MW",
+      "name": "Michale Oliphard",
+      "email": "moliphardg@symantec.com",
+      "phone": "(879) 4531767",
+      "password": "v1Da44kPWj"
+    },
+    {
+      "id": 18,
+      "initials": "SV",
+      "name": "Tim Vest",
+      "email": "tvesth@fotki.com",
+      "phone": "(327) 2568915",
+      "password": "H8St4mDsraj3"
+    },
+    {
+      "id": 19,
+      "initials": "CN",
+      "name": "Kathryne Windram",
+      "email": "kwindrami@dailymail.co.uk",
+      "phone": "(845) 7791530",
+      "password": "bpbwa6TSxAxJ"
+    },
+    {
+      "id": 20,
+      "initials": "RU",
+      "name": "Lizbeth Hinrich",
+      "email": "lhinrichj@free.fr",
+      "phone": "(200) 3485549",
+      "password": "NdAE1j8g8"
+    }
+  ],
+  "adminUsers": [
+    {
+      "id": 1,
+      "initials": "CN",
+      "name": "Wren Lanfranchi",
+      "email": "wlanfranchi0@oaic.gov.au",
+      "phone": "(335) 9763544",
+      "password": "ooKMMl8sr"
+    },
+    {
+      "id": 2,
+      "initials": "ID",
+      "name": "Kass Shaves",
+      "email": "kshaves1@qq.com",
+      "phone": "(512) 5348288",
+      "password": "P8fI4HAha"
+    },
+    {
+      "id": 3,
+      "initials": "PL",
+      "name": "Tiler Havesides",
+      "email": "thavesides2@shinystat.com",
+      "phone": "(640) 6741281",
+      "password": "XW41eOf6"
+    },
+    {
+      "id": 4,
+      "initials": "CZ",
+      "name": "Lanny Laflin",
+      "email": "llaflin3@chron.com",
+      "phone": "(204) 3473912",
+      "password": "1GjXmx"
+    },
+    {
+      "id": 5,
+      "initials": "GA",
+      "name": "Saraann Castillou",
+      "email": "scastillou4@ox.ac.uk",
+      "phone": "(158) 9248653",
+      "password": "PJeh48DEhzp"
+    }
+  ],
+  "clientUsers": [
+    {
+      "id": 1,
+      "initials": "WL",
+      "name": "Client Wren Lanfranchi",
+      "email": "wlanfranchi0@oaic.gov.au",
+      "phone": "(335) 9763544",
+      "password": "ooKMMl8sr"
+    },
+    {
+      "id": 2,
+      "initials": "KS",
+      "name": "Client Kass Shaves",
+      "email": "kshaves1@qq.com",
+      "phone": "(512) 5348288",
+      "password": "P8fI4HAha"
+    },
+    {
+      "id": 3,
+      "initials": "TH",
+      "name": "Client Tiler Havesides",
+      "email": "thavesides2@shinystat.com",
+      "phone": "(640) 6741281",
+      "password": "XW41eOf6"
+    },
+    {
+      "id": 4,
+      "initials": "LL",
+      "name": "Client Lanny Laflin",
+      "email": "llaflin3@chron.com",
+      "phone": "(204) 3473912",
+      "password": "1GjXmx"
+    },
+    {
+      "id": 5,
+      "initials": "SC",
+      "name": "Client Saraann Castillou",
+      "email": "scastillou4@ox.ac.uk",
+      "phone": "(158) 9248653",
+      "password": "PJeh48DEhzp"
+    }
+  ],
+  "driverUsers": [
+    {
+      "id": 1,
+      "initials": "CN",
+      "name": "Driver Lanfranchi",
+      "email": "wlanfranchi0@oaic.gov.au",
+      "phone": "(335) 9763544",
+      "password": "ooKMMl8sr"
+    },
+    {
+      "id": 2,
+      "initials": "ID",
+      "name": "Driver Shaves",
+      "email": "kshaves1@qq.com",
+      "phone": "(512) 5348288",
+      "password": "P8fI4HAha"
+    },
+    {
+      "id": 3,
+      "initials": "PL",
+      "name": "Driver Havesides",
+      "email": "thavesides2@shinystat.com",
+      "phone": "(640) 6741281",
+      "password": "XW41eOf6"
+    },
+    {
+      "id": 4,
+      "initials": "CZ",
+      "name": "Driver Laflin",
+      "email": "llaflin3@chron.com",
+      "phone": "(204) 3473912",
+      "password": "1GjXmx"
+    },
+    {
+      "id": 5,
+      "initials": "GA",
+      "name": "Driver Castillou",
+      "email": "scastillou4@ox.ac.uk",
+      "phone": "(158) 9248653",
+      "password": "PJeh48DEhzp"
+    },
+    {
+      "id": 6,
+      "initials": "CN",
+      "name": "Driver Lanfranchi",
+      "email": "wlanfranchi0@oaic.gov.au",
+      "phone": "(335) 9763544",
+      "password": "ooKMMl8sr"
+    },
+    {
+      "id": 7,
+      "initials": "ID",
+      "name": "Driver Shaves",
+      "email": "kshaves1@qq.com",
+      "phone": "(512) 5348288",
+      "password": "P8fI4HAha"
+    },
+    {
+      "id": 8,
+      "initials": "PL",
+      "name": "Driver Havesides",
+      "email": "thavesides2@shinystat.com",
+      "phone": "(640) 6741281",
+      "password": "XW41eOf6"
+    },
+    {
+      "id": 9,
+      "initials": "CZ",
+      "name": "Driver Laflin",
+      "email": "llaflin3@chron.com",
+      "phone": "(204) 3473912",
+      "password": "1GjXmx"
+    },
+    {
+      "id": 10,
+      "initials": "GA",
+      "name": "Driver Castillou",
+      "email": "scastillou4@ox.ac.uk",
+      "phone": "(158) 9248653",
+      "password": "PJeh48DEhzp"
+    }
+  ],
+  "cleanerUsers": [
+    {
+      "id": 1,
+      "initials": "CN",
+      "name": "Cleaner Lanfranchi",
+      "email": "wlanfranchi0@oaic.gov.au",
+      "phone": "(335) 9763544",
+      "password": "ooKMMl8sr"
+    },
+    {
+      "id": 2,
+      "initials": "ID",
+      "name": "Cleaner Shaves",
+      "email": "kshaves1@qq.com",
+      "phone": "(512) 5348288",
+      "password": "P8fI4HAha"
+    },
+    {
+      "id": 3,
+      "initials": "PL",
+      "name": "Cleaner Havesides",
+      "email": "thavesides2@shinystat.com",
+      "phone": "(640) 6741281",
+      "password": "XW41eOf6"
+    },
+    {
+      "id": 4,
+      "initials": "CZ",
+      "name": "Cleaner Laflin",
+      "email": "llaflin3@chron.com",
+      "phone": "(204) 3473912",
+      "password": "1GjXmx"
+    },
+    {
+      "id": 5,
+      "initials": "GA",
+      "name": "Cleaner Castillou",
+      "email": "scastillou4@ox.ac.uk",
+      "phone": "(158) 9248653",
+      "password": "PJeh48DEhzp"
+    }
+  ],
+  "dropoffs": [
+    {
+      "id": 1,
+      "initials": "CN",
+      "name": "DropOff Lanfranchi",
+      "email": "wlanfranchi0@oaic.gov.au",
+      "phone": "(335) 9763544",
+      "password": "ooKMMl8sr"
+    },
+    {
+      "id": 2,
+      "initials": "ID",
+      "name": "DropOff Shaves",
+      "email": "kshaves1@qq.com",
+      "phone": "(512) 5348288",
+      "password": "P8fI4HAha"
+    },
+    {
+      "id": 3,
+      "initials": "PL",
+      "name": "DropOff Havesides",
+      "email": "thavesides2@shinystat.com",
+      "phone": "(640) 6741281",
+      "password": "XW41eOf6"
+    },
+    {
+      "id": 4,
+      "initials": "CZ",
+      "name": "Cleaner Laflin",
+      "email": "llaflin3@chron.com",
+      "phone": "(204) 3473912",
+      "password": "1GjXmx"
+    },
+    {
+      "id": 5,
+      "initials": "GA",
+      "name": "DropOff Castillou",
+      "email": "scastillou4@ox.ac.uk",
+      "phone": "(158) 9248653",
+      "password": "PJeh48DEhzp"
+    }
+  ],
+  "pickups": [
+    {
+      "id": 1,
+      "initials": "CN",
+      "name": "Pickups Lanfranchi",
+      "email": "wlanfranchi0@oaic.gov.au",
+      "phone": "(335) 9763544",
+      "password": "ooKMMl8sr"
+    },
+    {
+      "id": 2,
+      "initials": "ID",
+      "name": "Pickups Shaves",
+      "email": "kshaves1@qq.com",
+      "phone": "(512) 5348288",
+      "password": "P8fI4HAha"
+    },
+    {
+      "id": 3,
+      "initials": "PL",
+      "name": "Pickups Havesides",
+      "email": "thavesides2@shinystat.com",
+      "phone": "(640) 6741281",
+      "password": "XW41eOf6"
+    },
+    {
+      "id": 4,
+      "initials": "CZ",
+      "name": "Pickups Laflin",
+      "email": "llaflin3@chron.com",
+      "phone": "(204) 3473912",
+      "password": "1GjXmx"
+    },
+    {
+      "id": 5,
+      "initials": "GA",
+      "name": "Pickups Castillou",
+      "email": "scastillou4@ox.ac.uk",
+      "phone": "(158) 9248653",
+      "password": "PJeh48DEhzp"
+    }
+  ]
+}
